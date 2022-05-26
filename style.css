@@ -1,0 +1,10 @@
+
+body{
+    background-color: rgb(1, 192, 250);
+    font-family:"Comic Sans MS",cursive;
+}
+button{
+    background-color: turquoise;
+    color: white;
+    border-color: turquoise;
+}
